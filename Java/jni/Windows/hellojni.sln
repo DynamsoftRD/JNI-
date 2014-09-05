@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jni", "jni\jni.vcxproj", "{12838D3A-3DA9-4205-862B-AB48362B9420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		JNI|Win32 = JNI|Win32
+		JNI|x64 = JNI|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Debug|Win32.Build.0 = Debug|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Debug|x64.ActiveCfg = Debug|x64
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Debug|x64.Build.0 = Debug|x64
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.JNI|Win32.ActiveCfg = JNI|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.JNI|Win32.Build.0 = JNI|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.JNI|x64.ActiveCfg = JNI|x64
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.JNI|x64.Build.0 = JNI|x64
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Release|Win32.ActiveCfg = Release|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Release|Win32.Build.0 = Release|Win32
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Release|x64.ActiveCfg = Release|x64
+		{12838D3A-3DA9-4205-862B-AB48362B9420}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
